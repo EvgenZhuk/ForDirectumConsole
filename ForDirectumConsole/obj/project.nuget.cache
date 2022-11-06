@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "izCVFA8R0XrGoD/4vPmnJWn3DxYUDIuAUBSc8NmQlSzbgiSkQmkKLwxsLaFPppHHWLqa6zuLdS4dUXPITxs3cQ==",
+  "success": true,
+  "projectFilePath": "E:\\fff\\ForDirectumConsole\\ForDirectumConsole\\ForDirectumConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\POOL\\.nuget\\packages\\npgsql\\6.0.7\\npgsql.6.0.7.nupkg.sha512",
+    "C:\\Users\\POOL\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
